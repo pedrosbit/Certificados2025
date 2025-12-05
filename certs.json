@@ -22,5 +22,6 @@
     "Matheus": {"salt":"9uVN8mKgQyUV+Cr+qIF+fQ==","iv":"LDsSPMMZqpQ4J077","data":"98ZoQ8eUhOAeW8fDMvTmPwwge1ML4PhQFciUlyUND71DcJV79hqLuQmkAA7z1eeX3RvygSTyzrt88+w80AHLfhnwvS4WzN6+ZhXmpAS4rToCqV1ckOIA6FAu5tLoWPjsv1D6wmQksIeOO2RV"},
     "Lucca": {"salt":"p3K2vjyNUeZ1vYoQJ0fqzw==","iv":"ylmuGhjO/f29qn0z","data":"xEKKGGmHD0PJSp54yZLbux4FPYVhIxRd0BtEANpw1tb9OV1FaZ9+oI9DsCCF06pKXHfBIUZwtvgzu1Y/483fdXAy0eOluFZBo3SnijqYgUMfwfnQKxzXP24YjR9W9PChLY+rJZube6qMG7f6ZnT6GhlmA/8LrA=="},
     "Mariane": {"salt":"5WeIdOXJW/zDQSqAjXw+CQ==","iv":"qVipYLjUu/46yj6f","data":"LJw21cT3eoU+cTXIztMDK4o4gPYUadZozAh9mFC/SfBvq5dYyDgGIV2d9RHiMeTey0JkohcNxba+9+9stVN9jD1v8aG28BfW/UwBKXplxBSUXf5UwOGnCXqlCm3Od4jdeTj5eNtKDOnOooTX4A=="},
-    "Richard": {"salt":"TFPu0k6PDqvAT5/qYNawKQ==","iv":"iBrp5pC6uCwfxaQD","data":"q7SjGj6pDFNZ3rjbAcy2dGsVPBqwUfhBZbsEW6tLLT4YO98t5ROaib37yMbxY6LLMp6U1y6lRhhJ8znAb+8m/CfP5MNQpFme2+mkCJl3PVAjVGLZ3T3OHtcTqqA2ZfM0hJbOqAcoiBi38tPLTnJzA60U"}
+    "Richard": {"salt":"TFPu0k6PDqvAT5/qYNawKQ==","iv":"iBrp5pC6uCwfxaQD","data":"q7SjGj6pDFNZ3rjbAcy2dGsVPBqwUfhBZbsEW6tLLT4YO98t5ROaib37yMbxY6LLMp6U1y6lRhhJ8znAb+8m/CfP5MNQpFme2+mkCJl3PVAjVGLZ3T3OHtcTqqA2ZfM0hJbOqAcoiBi38tPLTnJzA60U"},
+    "JoaoPR": {"salt":"3rIEMxD2tfYUklRoLvjhEg==","iv":"iqYvobE/lPaP0kcA","data":"anW6uWb35Hy6OWFga6ERHqgBRM9wCR69Y3JnHGHDGTv6+mDVEObxOCXgHqVhIz5vCGCr4kgG6BV/JE/vawxUJtWChYxui8xA1UqDqmqcmh4aJTXCFN5HVLGsRO01iMQilpSUf5ILp2sAVf25GfEc91uK"}
 }
