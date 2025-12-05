@@ -1,8 +1,8 @@
 {
     "PedroSB": {"salt":"2EN9+Ilj34O79M/1/0tDpw==","iv":"zpk9FPIYwDJ4kt+K","data":"BGmog2fVBbTrf5zP+4Z2tO9Ht2/l31GFXAvhAY4MHT0SQ/kIDVCUNxIbQ3W+vXmwlE81V8mXkFAgfTlSqn0LkEI10Z4bO8RYdGHTcxB2FK65UP+3+uV0h1y7UqeH"},
-    "CaioTT": {
-        "nome": "Caio Tomaz Trindade",
-        "curso": "Lógica da Programação em Python",
-        "data": "2025",
-    },
+  "CaioTT": {
+    "salt": "NOVO SALT AQUI", 
+    "iv": "NOVO IV AQUI",
+    "data": "NOVA STRING DE DADOS CRIPTOGRAFADOS AQUI"
+  }
 }
