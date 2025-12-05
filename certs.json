@@ -1,8 +1,4 @@
 {
     "PedroSB": {"salt":"2EN9+Ilj34O79M/1/0tDpw==","iv":"zpk9FPIYwDJ4kt+K","data":"BGmog2fVBbTrf5zP+4Z2tO9Ht2/l31GFXAvhAY4MHT0SQ/kIDVCUNxIbQ3W+vXmwlE81V8mXkFAgfTlSqn0LkEI10Z4bO8RYdGHTcxB2FK65UP+3+uV0h1y7UqeH"},
-  "CaioTT": {
-    "salt": "NOVO SALT AQUI", 
-    "iv": "NOVO IV AQUI",
-    "data": "NOVA STRING DE DADOS CRIPTOGRAFADOS AQUI"
-  }
+    "CaioTT": {"salt":"cfmZaIYgP8NMY4ncQV77Hw==","iv":"2z2Qvdj10UrpnK3/","data":"uRWWbep3z5BCfF6H1WZrH0TmVRDssQBU55DAJs+F372e2dAmAPXEoFXZjNcRmODEP+qw3I1sE8gfnvvcHElon3nU3ZMNMC6sqxGVyKzWzvQASlKh9rM/noUpWN56ItM0hX822mSwXlXK"},
 }
