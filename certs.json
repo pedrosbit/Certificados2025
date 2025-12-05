@@ -1,9 +1,5 @@
 {
-    "PedroSB": {
-        "salt": "2EN9+Ilj34O79M/1/0tDpw==",
-        "iv": "zpk9FPIYwDJ4kt+K",
-        "data": "BGmog2fVBbTrf5zP+4Z2tO9Ht2/l31GFXAvhAY4MHT0SQ/kIDVCUNxIbQ3W+vXmwlE81V8mXkFAgfTlSqn0LkEI10Z4bO8RYdGHTcxB2FK65UP+3+uV0h1y7UqeH"
-    },
+    "PedroSB": {"salt":"7OjzeNlOieNnpnr+iiXGFw==","iv":"FgfapcdF7PH2d5T4","data":"Aoj/oTZW/kfcjn3MvUpxajwR+jXejsh1XNlcBZUbP49VF+tsTPTRyvaIJyp8o6vK6/2+PGPlBQwQoXymQxuR0lRVqHJPXieC+Hc1Z/+rjIzyyYFXN8I1hEUKEizY8o3TxQqMOo+v6jDJPRxwe4/qgNky"},
     "CaioTT": {
         "salt": "cfmZaIYgP8NMY4ncQV77Hw==",
         "iv": "2z2Qvdj10UrpnK3/",
